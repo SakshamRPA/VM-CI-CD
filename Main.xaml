@@ -78,6 +78,6 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:LogMessage DisplayName="Test Mess" sap:VirtualizedContainerService.HintSize="354,167.33333333333334" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;this is just a test project to run ci/cd pipeline&quot;]" />
+    <ui:LogMessage DisplayName="Test Mess" sap:VirtualizedContainerService.HintSize="354,167.33333333333334" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;this is just a test project to run ci/cd pipeline &quot;]" />
   </Sequence>
 </Activity>
